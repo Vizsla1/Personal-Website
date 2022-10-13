@@ -1,0 +1,86 @@
+.top-container {
+background-color:#DA0037;
+position: relative;
+padding-top: 400px;
+height:800px;
+text-align: center;
+
+
+}
+
+.me {
+  color:white;
+  height:auto;
+
+}
+body{
+
+
+  margin:0;
+
+}
+.pro {
+  color:white;
+  height:auto;
+  margin: -130px auto;
+}
+
+h1{
+color:white;
+margin: -190px auto;
+font-family: Futura, sans-serif;
+font-size:2rem;
+
+}
+
+.middle-container{
+text-align: center;
+}
+
+.bottom-container{
+text-align: center;
+background-color:#DA0037;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 30%;
+  left:15%;
+}
+
+.top {
+  position: absolute;
+  top:10%;
+  left:65%;
+}
+
+.image1 {
+  width:10%;
+
+}
+
+.image2 {
+  width:10%;
+
+}
+
+.Skills {
+  align-items: center;
+  text-align: center;
+
+}
+
+.skill-row {
+  align-items: center;
+  text-align: center;
+}
+
+.credits {
+  text-align: center;
+  background-color:#DA0037;
+  margin:0;
+}
+
+h3 {
+  color:#DA0037;
+}
